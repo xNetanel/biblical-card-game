@@ -61,22 +61,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CardHover.cs" />
-    <Compile Include="Assets\Scripts\AudioManager.cs" />
-    <Compile Include="Assets\Scripts\ConfigReader.cs" />
-    <Compile Include="Assets\Scripts\HandManager.cs" />
-    <Compile Include="Assets\Scripts\AltarClickHandler.cs" />
-    <Compile Include="Assets\Scripts\AbilityManager.cs" />
-    <Compile Include="Assets\Scripts\CardZoomManager.cs" />
     <Compile Include="Assets\Scripts\AltarManager.cs" />
     <Compile Include="Assets\Scripts\CardDatabase.cs" />
     <Compile Include="Assets\Scripts\DeckBuilder.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\Card.cs" />
+    <Compile Include="Assets\Scripts\AudioManager.cs" />
     <Compile Include="Assets\Scripts\TargetingManager.cs" />
+    <Compile Include="Assets\Scripts\ConfigReader.cs" />
     <Compile Include="Assets\Scripts\CardUI.cs" />
     <Compile Include="Assets\Scripts\AIOpponent.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\HandManager.cs" />
+    <Compile Include="Assets\Scripts\AltarClickHandler.cs" />
+    <Compile Include="Assets\Scripts\AbilityManager.cs" />
     <Compile Include="Assets\Scripts\BoardManager.cs" />
+    <Compile Include="Assets\Scripts\CardZoomManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -663,12 +663,12 @@
       <HintPath>Library\PackageCache\com.unity.visualscripting@8bed5ad90189\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="System.Runtime.CompilerServices.Unsafe">
-      <HintPath>Library\PackageCache\com.unity.collections@538ace9075bc\Unity.Collections.Tests\System.Runtime.CompilerServices.Unsafe\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Mono.Cecil">
       <HintPath>Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff\Mono.Cecil.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe">
+      <HintPath>Library\PackageCache\com.unity.collections@538ace9075bc\Unity.Collections.Tests\System.Runtime.CompilerServices.Unsafe\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
@@ -1339,12 +1339,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Multiplayer.Center.Common">
-      <HintPath>Library\ScriptAssemblies\Unity.Multiplayer.Center.Common.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Multiplayer.Center.Common">
+      <HintPath>Library\ScriptAssemblies\Unity.Multiplayer.Center.Common.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Burst">
