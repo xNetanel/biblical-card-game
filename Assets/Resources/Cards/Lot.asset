@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 402a2f38a301c2347a8a3ba5b2a29b8e, type: 3}
+  m_Name: Lot
+  m_EditorClassIdentifier: Assembly-CSharp::Card
+  cardName: LOT
+  rarity: 0
+  cardArt: {fileID: 7085875126608211008, guid: 4b76b7d88f266db488c824df161d27f5, type: 3}
+  manaCost: 3
+  originalManaCost: 0
+  attack: 2
+  health: 4
+  abilityDescription: 'Battlecry: If alone on the board, gain +2 Attack.'
+  isUnit: 1

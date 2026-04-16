@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 402a2f38a301c2347a8a3ba5b2a29b8e, type: 3}
+  m_Name: The Great Flood
+  m_EditorClassIdentifier: Assembly-CSharp::Card
+  cardName: The Great Flood
+  rarity: 3
+  cardArt: {fileID: 6110803243918441692, guid: b6ab855d2f1c71f4599513e6d868fedb, type: 3}
+  manaCost: 7
+  originalManaCost: 0
+  attack: 0
+  health: 0
+  abilityDescription: Deal 5 damage to all units.
+  isUnit: 0

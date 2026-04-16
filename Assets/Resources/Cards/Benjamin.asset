@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 402a2f38a301c2347a8a3ba5b2a29b8e, type: 3}
+  m_Name: Benjamin
+  m_EditorClassIdentifier: Assembly-CSharp::Card
+  cardName: BENJAMIN
+  rarity: 0
+  cardArt: {fileID: -4032398919424783635, guid: 5ed0f2eaad9794d43956f6ddf4495a13, type: 3}
+  manaCost: 2
+  originalManaCost: 0
+  attack: 2
+  health: 3
+  abilityDescription: 'Battlecry: If Joseph is in your hand or play, heal your altar
+    2.'
+  isUnit: 1

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 402a2f38a301c2347a8a3ba5b2a29b8e, type: 3}
+  m_Name: Forbidden Fruit
+  m_EditorClassIdentifier: Assembly-CSharp::Card
+  cardName: Forbidden Fruit
+  rarity: 1
+  cardArt: {fileID: 7709146256963282088, guid: 359cf18844f413943a874811cdc5a48a, type: 3}
+  manaCost: 1
+  originalManaCost: 0
+  attack: 0
+  health: 0
+  abilityDescription: Deal 1 damage to a random friendly unit, Grant +2 attack to
+    another.
+  isUnit: 0

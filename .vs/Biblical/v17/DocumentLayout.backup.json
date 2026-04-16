@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Netanel\\Biblical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\ConfigReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ConfigReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\AIOpponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AIOpponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\BoardManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BoardManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\AbilityManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AbilityManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\HandManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HandManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\DeckBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DeckBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\AltarClickHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AltarClickHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\CardUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CardUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\AltarManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AltarManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\CardHover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CardHover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\Card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\CardZoomManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CardZoomManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\CardDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CardDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\TargetingManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TargetingManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AIOpponent.cs",
+              "DocumentMoniker": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\AIOpponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AIOpponent.cs",
+              "ToolTip": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\AIOpponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AIOpponent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:22:24.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ConfigReader.cs",
+              "ToolTip": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\ConfigReader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ConfigReader.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:20:23.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T19:36:03.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIBpwD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T22:18:46.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CardHover.cs",
+              "DocumentMoniker": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\CardHover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardHover.cs",
+              "ToolTip": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\CardHover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardHover.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBpwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:20:47.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CardZoomManager.cs",
+              "DocumentMoniker": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\CardZoomManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardZoomManager.cs",
+              "ToolTip": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\CardZoomManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardZoomManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAOBvwEwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:19:46.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TargetingManager.cs",
+              "DocumentMoniker": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\TargetingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TargetingManager.cs",
+              "ToolTip": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\TargetingManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TargetingManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T23:38:48.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbilityManager.cs",
+              "DocumentMoniker": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\AbilityManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AbilityManager.cs",
+              "ToolTip": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\AbilityManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AbilityManager.cs",
+              "ViewState": "AgIAAOQBAAAAAAAAAAAUwPkBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T23:14:38.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AltarClickHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\AltarClickHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AltarClickHandler.cs",
+              "ToolTip": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\AltarClickHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AltarClickHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T16:01:02.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAHwBAAAAAAAAAAAIwJ0BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:10:08.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeckBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\DeckBuilder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeckBuilder.cs",
+              "ToolTip": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\DeckBuilder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeckBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:29:16.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HandManager.cs",
+              "DocumentMoniker": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\HandManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HandManager.cs",
+              "ToolTip": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\HandManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HandManager.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwHQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:02:32.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BoardManager.cs",
+              "DocumentMoniker": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\BoardManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BoardManager.cs",
+              "ToolTip": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\BoardManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BoardManager.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAAAMoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:09:29.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CardUI.cs",
+              "DocumentMoniker": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\CardUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardUI.cs",
+              "ToolTip": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\CardUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardUI.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAACBjwF8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:07:42.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AltarManager.cs",
+              "DocumentMoniker": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\AltarManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AltarManager.cs",
+              "ToolTip": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\AltarManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AltarManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIBpwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:06:21.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CardDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\CardDatabase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardDatabase.cs",
+              "ToolTip": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\CardDatabase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardDatabase.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAOBvwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:04:40.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\Card.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card.cs",
+              "ToolTip": "C:\\Users\\Netanel\\Biblical\\Assets\\Scripts\\Card.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:03:07.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 402a2f38a301c2347a8a3ba5b2a29b8e, type: 3}
+  m_Name: Rebecca
+  m_EditorClassIdentifier: Assembly-CSharp::Card
+  cardName: REBECCA
+  rarity: 0
+  cardArt: {fileID: -5337713253762765137, guid: dd53e29480caf5140899fbd9be5a70c2, type: 3}
+  manaCost: 3
+  originalManaCost: 0
+  attack: 2
+  health: 2
+  abilityDescription: 'Battlecry: Draw a card, then give a friendly unit +1 Health.'
+  isUnit: 1

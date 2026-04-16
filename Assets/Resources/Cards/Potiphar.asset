@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 402a2f38a301c2347a8a3ba5b2a29b8e, type: 3}
+  m_Name: Potiphar
+  m_EditorClassIdentifier: Assembly-CSharp::Card
+  cardName: POTIPHAR
+  rarity: 1
+  cardArt: {fileID: -1890436822968107237, guid: bf454340813cd5147a91c33df1207392, type: 3}
+  manaCost: 4
+  originalManaCost: 0
+  attack: 2
+  health: 4
+  abilityDescription: Silence an enemy - removing it's ability.
+  isUnit: 1
