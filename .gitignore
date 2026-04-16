@@ -1,21 +1,16 @@
-# API Keys - never commit these
-config.env
-
-# Unity generated files
+# Unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-[Ll]ogs/
-[Uu]ser[Ss]ettings/
-*.pidb.meta
-*.pdb.meta
-*.mdb.meta
-sysinfo.txt
-*.apk
-*.aab
-*.unitypackage
-*.app
-crashlytics-build.properties
-Assets/AssetStoreTools*
+Logs/
+UserSettings/
+
+# API Key
+config.env
+
+# VS
+.vs/
+*.csproj
+*.sln
